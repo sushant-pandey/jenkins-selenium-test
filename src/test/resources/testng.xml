@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "jenkins web app suite">
+	<test name = "ui tests">
+		<classes>
+			<class name = "learn.ps.selenium_test.JenkinsWebAppTest"/>
+		</classes>
+	</test>
+</suite>
